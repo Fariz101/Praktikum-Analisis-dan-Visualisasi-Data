@@ -2,6 +2,7 @@
 # Panduan Praktik: Analisis Data E-commerce
 # Langkah 1: Persiapan Library & Data
 <img width="380" height="161" alt="Screenshot 2026-05-09 082738" src="https://github.com/user-attachments/assets/873a101a-514f-481d-90c8-49dbc02f19e2" />
+
 # Langkah 2: Inspeksi & Pembersihan Data (Data Cleaning)
 <img width="358" height="196" alt="Screenshot 2026-05-09 082746" src="https://github.com/user-attachments/assets/76ba6ff9-8827-4e8d-9d9f-cd1c5489072d" />
 <img width="148" height="225" alt="Screenshot 2026-05-09 082752" src="https://github.com/user-attachments/assets/6299cc81-0772-4542-b19e-5758664b4ef1" />
