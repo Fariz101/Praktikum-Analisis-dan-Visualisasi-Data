@@ -24,10 +24,10 @@
 <img width="613" height="361" alt="Screenshot 2026-05-09 082845" src="https://github.com/user-attachments/assets/daa44c6d-f9d2-4eae-b1f4-5c181f688a46" />
 4. Uji Hipotesis Sederhana
 <img width="392" height="257" alt="Screenshot 2026-05-09 082856" src="https://github.com/user-attachments/assets/6f64b601-3c17-4a79-816d-0e3f3475263c" />
+
 # Lanjutan Langkah 4: Analisis & Visualisasi Lanjutan (Kelompok Sebangku)
-
 5. Pendalaman Teknik: RFM Analysis
-
+   
 6. Pendalaman Teknik: Regresi Linear Sederhana
 <img width="296" height="31" alt="Screenshot 2026-05-09 082903" src="https://github.com/user-attachments/assets/64ccbf28-1296-4ba3-be98-036a73d1429d" />
 
